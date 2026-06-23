@@ -1,0 +1,24 @@
+20 DevOps Scenario-Based Interview Questions
+
+Most DevOps interviews focus on how you troubleshoot and solve problems, not just definitions.
+
+1️⃣ A production deployment failed. What would be your first troubleshooting steps?
+2️⃣ A Kubernetes Pod is stuck in Pending state. What would you check?
+3️⃣ Users report the application is slow. How would you identify the bottleneck?
+4️⃣ A Jenkins pipeline suddenly starts failing. Where would you begin troubleshooting?
+5️⃣ An EC2 instance is showing 100% CPU utilization. How would you investigate?
+6️⃣ A Docker container exits immediately after startup. How would you debug it?
+7️⃣ An application cannot connect to the database. What would you check first?
+8️⃣ A recent deployment caused production issues. How would you perform a rollback?
+9️⃣ Cloud costs increased significantly this month. How would you identify the reason?
+🔟 A secret key was accidentally committed to Git. What actions would you take?
+1️⃣1️⃣ A Linux server suddenly becomes unreachable. How would you troubleshoot it?
+1️⃣2️⃣ Disk usage on a production server reaches 100%. What are your immediate actions?
+1️⃣3️⃣ A website starts returning 503 errors. How would you investigate?
+1️⃣4️⃣ Kubernetes Pods keep restarting. What could be the possible reasons?
+1️⃣5️⃣ A deployment works in staging but fails in production. What differences would you compare?
+1️⃣6️⃣ Monitoring alerts show high memory consumption. How would you find the root cause?
+1️⃣7️⃣ Multiple critical alerts are triggered at the same time. How would you prioritize them?
+1️⃣8️⃣ An EC2 instance is running but SSH access is failing. What would you check?
+1️⃣9️⃣ CI/CD pipeline execution time increased from 5 minutes to 25 minutes. How would you investigate?
+2️⃣0️⃣ Tell me about a production issue you solved. What was your troubleshooting approach?
